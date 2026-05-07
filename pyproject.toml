@@ -13,6 +13,7 @@ classifiers = ["License :: OSI Approved :: MIT License"]
 dependencies = [
   "wolf",
   "pyjwt",
+  "structlog",
 ]
 
 [project.optional-dependencies]
